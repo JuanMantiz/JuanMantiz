@@ -18,7 +18,7 @@ Here's what I'm currently working with:
 * <img src="https://skillicons.dev/icons?i=java" alt="Java" width="25"/> **Java:** Exploring backend systems and Object-Oriented Programming.
 * <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="25"/> **Swift:** Dabbling in native iOS app development.
 
-*(You can get more icons for free at: `skillicons.dev`)*
+
 
 ---
 
